@@ -1,0 +1,2 @@
+# zeta.nvm
+java
